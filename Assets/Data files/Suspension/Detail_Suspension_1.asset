@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4087d806c627d2469d37059c0119fdd, type: 3}
+  m_Name: Detail_Suspension_1
+  m_EditorClassIdentifier: 
+  detail_suspension:
+    Name: "\u0425\u043E\u0432\u0435\u0440\u044B"
+    Icon: {fileID: 21300000, guid: d0534ee4f5c4fc9479cc3c2dae60f37e, type: 3}
+    Detail_mesh: {fileID: 6718695003591158750, guid: 1a9ba6b59b5dca44bb73726fc8bf3176, type: 3}
+    Detail_material: {fileID: 2100000, guid: 7e8e6693de59c5d4db32118de84c26ef, type: 2}

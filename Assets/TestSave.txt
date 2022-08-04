@@ -1,0 +1,707 @@
+{
+    "Details_Main": [
+        {
+            "Name": "Blue",
+            "Icon": {
+                "instanceID": 30350
+            },
+            "Detail_mesh": {
+                "instanceID": 30352
+            },
+            "Detail_material": {
+                "instanceID": 30146
+            }
+        },
+        {
+            "Name": "red",
+            "Icon": {
+                "instanceID": 30020
+            },
+            "Detail_mesh": {
+                "instanceID": 30352
+            },
+            "Detail_material": {
+                "instanceID": 30354
+            }
+        },
+        {
+            "Name": "Green",
+            "Icon": {
+                "instanceID": 30022
+            },
+            "Detail_mesh": {
+                "instanceID": 30352
+            },
+            "Detail_material": {
+                "instanceID": 30356
+            }
+        }
+    ],
+    "Commanders": [
+        {
+            "Name": "Мышь",
+            "Icon": {
+                "instanceID": 30376
+            }
+        },
+        {
+            "Name": "Кот",
+            "Icon": {
+                "instanceID": 30378
+            }
+        },
+        {
+            "Name": "Лиса",
+            "Icon": {
+                "instanceID": 30380
+            }
+        },
+        {
+            "Name": "Бык",
+            "Icon": {
+                "instanceID": 30382
+            }
+        }
+    ],
+    "AngarSlots": [
+        {
+            "slotType": 1,
+            "detailMainList": [
+                {
+                    "Name": "Blue",
+                    "Icon": {
+                        "instanceID": 30350
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "red",
+                    "Icon": {
+                        "instanceID": 30020
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                },
+                {
+                    "Name": "Green",
+                    "Icon": {
+                        "instanceID": 30022
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30356
+                    }
+                }
+            ],
+            "detailTurretList": [
+                {
+                    "Name": "Длинная пушка",
+                    "Icon": {
+                        "instanceID": 30370
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "Ракетная установка",
+                    "Icon": {
+                        "instanceID": 30374
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                }
+            ],
+            "detailEngineList": [
+                {
+                    "Name": "Model 2",
+                    "Icon": {
+                        "instanceID": 30358
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30094
+                    }
+                },
+                {
+                    "Name": "Model 1",
+                    "Icon": {
+                        "instanceID": 30360
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30116
+                    }
+                }
+            ],
+            "detailSuspensionList": [
+                {
+                    "Name": "Ховеры",
+                    "Icon": {
+                        "instanceID": 30362
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "Гусенецы",
+                    "Icon": {
+                        "instanceID": 30366
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30356
+                    }
+                },
+                {
+                    "Name": "Колеса",
+                    "Icon": {
+                        "instanceID": 30368
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                }
+            ],
+            "commanderList": [
+                {
+                    "Name": "Мышь",
+                    "Icon": {
+                        "instanceID": 30376
+                    }
+                },
+                {
+                    "Name": "Кот",
+                    "Icon": {
+                        "instanceID": 30378
+                    }
+                },
+                {
+                    "Name": "Лиса",
+                    "Icon": {
+                        "instanceID": 30380
+                    }
+                },
+                {
+                    "Name": "Бык",
+                    "Icon": {
+                        "instanceID": 30382
+                    }
+                }
+            ],
+            "tankDataStruct": {
+                "detailMain": {
+                    "Name": "Blue",
+                    "Icon": {
+                        "instanceID": 30350
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                "detailEngine": {
+                    "Name": "Model 2",
+                    "Icon": {
+                        "instanceID": 30358
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30094
+                    }
+                },
+                "detailTurret": {
+                    "Name": "Длинная пушка",
+                    "Icon": {
+                        "instanceID": 30370
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                "detailSuspension": {
+                    "Name": "Ховеры",
+                    "Icon": {
+                        "instanceID": 30362
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                "commander": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    }
+                }
+            }
+        },
+        {
+            "slotType": 0,
+            "detailMainList": [
+                {
+                    "Name": "Blue",
+                    "Icon": {
+                        "instanceID": 30350
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "red",
+                    "Icon": {
+                        "instanceID": 30020
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                },
+                {
+                    "Name": "Green",
+                    "Icon": {
+                        "instanceID": 30022
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30356
+                    }
+                }
+            ],
+            "detailTurretList": [
+                {
+                    "Name": "Длинная пушка",
+                    "Icon": {
+                        "instanceID": 30370
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "Ракетная установка",
+                    "Icon": {
+                        "instanceID": 30374
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                }
+            ],
+            "detailEngineList": [
+                {
+                    "Name": "Model 2",
+                    "Icon": {
+                        "instanceID": 30358
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30094
+                    }
+                },
+                {
+                    "Name": "Model 1",
+                    "Icon": {
+                        "instanceID": 30360
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30116
+                    }
+                }
+            ],
+            "detailSuspensionList": [
+                {
+                    "Name": "Ховеры",
+                    "Icon": {
+                        "instanceID": 30362
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "Гусенецы",
+                    "Icon": {
+                        "instanceID": 30366
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30356
+                    }
+                },
+                {
+                    "Name": "Колеса",
+                    "Icon": {
+                        "instanceID": 30368
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                }
+            ],
+            "commanderList": [
+                {
+                    "Name": "Мышь",
+                    "Icon": {
+                        "instanceID": 30376
+                    }
+                },
+                {
+                    "Name": "Кот",
+                    "Icon": {
+                        "instanceID": 30378
+                    }
+                },
+                {
+                    "Name": "Лиса",
+                    "Icon": {
+                        "instanceID": 30380
+                    }
+                },
+                {
+                    "Name": "Бык",
+                    "Icon": {
+                        "instanceID": 30382
+                    }
+                }
+            ],
+            "tankDataStruct": {
+                "detailMain": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "detailEngine": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "detailTurret": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "detailSuspension": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "commander": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    }
+                }
+            }
+        },
+        {
+            "slotType": 0,
+            "detailMainList": [
+                {
+                    "Name": "Blue",
+                    "Icon": {
+                        "instanceID": 30350
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "red",
+                    "Icon": {
+                        "instanceID": 30020
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                },
+                {
+                    "Name": "Green",
+                    "Icon": {
+                        "instanceID": 30022
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30352
+                    },
+                    "Detail_material": {
+                        "instanceID": 30356
+                    }
+                }
+            ],
+            "detailTurretList": [
+                {
+                    "Name": "Длинная пушка",
+                    "Icon": {
+                        "instanceID": 30370
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "Ракетная установка",
+                    "Icon": {
+                        "instanceID": 30374
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30372
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                }
+            ],
+            "detailEngineList": [
+                {
+                    "Name": "Model 2",
+                    "Icon": {
+                        "instanceID": 30358
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30094
+                    }
+                },
+                {
+                    "Name": "Model 1",
+                    "Icon": {
+                        "instanceID": 30360
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 736
+                    },
+                    "Detail_material": {
+                        "instanceID": 30116
+                    }
+                }
+            ],
+            "detailSuspensionList": [
+                {
+                    "Name": "Ховеры",
+                    "Icon": {
+                        "instanceID": 30362
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30146
+                    }
+                },
+                {
+                    "Name": "Гусенецы",
+                    "Icon": {
+                        "instanceID": 30366
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30356
+                    }
+                },
+                {
+                    "Name": "Колеса",
+                    "Icon": {
+                        "instanceID": 30368
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 30364
+                    },
+                    "Detail_material": {
+                        "instanceID": 30354
+                    }
+                }
+            ],
+            "commanderList": [
+                {
+                    "Name": "Мышь",
+                    "Icon": {
+                        "instanceID": 30376
+                    }
+                },
+                {
+                    "Name": "Кот",
+                    "Icon": {
+                        "instanceID": 30378
+                    }
+                },
+                {
+                    "Name": "Лиса",
+                    "Icon": {
+                        "instanceID": 30380
+                    }
+                },
+                {
+                    "Name": "Бык",
+                    "Icon": {
+                        "instanceID": 30382
+                    }
+                }
+            ],
+            "tankDataStruct": {
+                "detailMain": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "detailEngine": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "detailTurret": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "detailSuspension": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    },
+                    "Detail_mesh": {
+                        "instanceID": 0
+                    },
+                    "Detail_material": {
+                        "instanceID": 0
+                    }
+                },
+                "commander": {
+                    "Name": "",
+                    "Icon": {
+                        "instanceID": 0
+                    }
+                }
+            }
+        }
+    ]
+}

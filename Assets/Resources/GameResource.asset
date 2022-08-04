@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55463e1b9710fb54e9333609c6d7d4c3, type: 3}
+  m_Name: GameResource
+  m_EditorClassIdentifier: 
+  Player: {fileID: 3350118326961336049, guid: d7fe7e76066748a4fbd633f023148b75, type: 3}
+  Enemies:
+  - {fileID: 1432471018260226479, guid: 56d38080645751740a61ba0ad89c4fcc, type: 3}
+  - {fileID: 1432471018260226479, guid: 56d38080645751740a61ba0ad89c4fcc, type: 3}
+  - {fileID: 1432471018260226479, guid: 56d38080645751740a61ba0ad89c4fcc, type: 3}
+  - {fileID: 1432471018260226479, guid: 56d38080645751740a61ba0ad89c4fcc, type: 3}
+  GameUI: {fileID: 0}
+  MainCamera: {fileID: 5043318462405658924, guid: 6bb3d58c4f6b02e46afc66e46296b9a8, type: 3}

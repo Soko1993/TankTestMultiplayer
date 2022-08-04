@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f926cf6f0648ae49b18b661000c8cfc, type: 3}
+  m_Name: DMData Start
+  m_EditorClassIdentifier: 
+  Details_Main:
+  - {fileID: 11400000, guid: 039663887038a7c4ca7eb5898fe0ea89, type: 2}
+  - {fileID: 11400000, guid: a2243feabe0337447b19feb033f36081, type: 2}
+  - {fileID: 11400000, guid: 2a54db29e2f178a4e87cab8d98b7cb1a, type: 2}
+  Details_Engine:
+  - {fileID: 11400000, guid: 1afcce6c9ea8da54e93aa8712deaf0a4, type: 2}
+  - {fileID: 11400000, guid: 23f7a447c76120d4fa7ab725eeed8a3d, type: 2}
+  Details_Suspension:
+  - {fileID: 11400000, guid: b15f9f835da0dc8408845f31d7b27644, type: 2}
+  - {fileID: 11400000, guid: 4071fcd41aacba9428051ea8beed82c8, type: 2}
+  - {fileID: 11400000, guid: 23a2555484f6f8f48a8769cb2717c459, type: 2}
+  Details_Turret:
+  - {fileID: 11400000, guid: a25ab67e32d37f040b35065e37dbd1d9, type: 2}
+  - {fileID: 11400000, guid: 446d069ce1c50fc479242ea744164ed8, type: 2}
+  Commanders:
+  - {fileID: 11400000, guid: 8755d3b5cf92cd0458cd002771950819, type: 2}
+  - {fileID: 11400000, guid: c61c02ff0fbbc1c44a3415c72169684d, type: 2}
+  - {fileID: 11400000, guid: 20ee204f301ed544f88f2d53ab8fbae6, type: 2}
+  - {fileID: 11400000, guid: ac826b6f7a23e8e46a7b0d44d34cd26c, type: 2}
+  AngarSlots: 3
