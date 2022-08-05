@@ -568,7 +568,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isMoving: 0
   moveSpeed: 325
-  Name: 
+  minX: 5
+  minY: -10
+  maxX: 5
+  maxY: -10
+  player: {fileID: 3350118326961336049}
 --- !u!114 &3350118326073751985
 MonoBehaviour:
   m_ObjectHideFlags: 0

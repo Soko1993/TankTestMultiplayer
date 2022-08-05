@@ -17,16 +17,17 @@ public class PlayerController : MonoBehaviour
     private CharacterEntity pAttr;
     public bool isMoving;
     public float moveSpeed;
+
     PhotonView view;
-    public string Name;
+    //public string Name;
 
     private FloatingJoystick _joystick;
 
     void Start()
     {
         view = GetComponent<PhotonView>();
-        Name = "Player " + Random.Range(1000, 9999);
-        Debug.Log(Name);
+        //Name = "Player " + Random.Range(1000, 9999);
+        Debug.Log ("PlayerController");
     }
 
     private void InitJoystick(TanksEngine.UI.Game_UI gameUI)
@@ -67,6 +68,11 @@ public class PlayerController : MonoBehaviour
     }
     private void Movement()
     {
+        if (view.IsMine) 
+        {
+            return;
+        }
+
         //_rb.velocity = new Vector3(_joystick.Horizontal * moveSpeed, _rb.velocity.y, _joystick.Vertical * moveSpeed);
         if (_joystick != null)
         {
